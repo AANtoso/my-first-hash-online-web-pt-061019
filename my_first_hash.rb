@@ -7,7 +7,7 @@ def my_hash
 end
 
 
-def shipping_manifest(array)
+def shipping_manifest(hash)
   the_manifest = ["whale bone corsets", "oil psintings", "porcelain vases"]
   shipping_manifest.keys
 
