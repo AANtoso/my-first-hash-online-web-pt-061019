@@ -7,7 +7,7 @@ def my_hash
 end
 
 
-def shipping_manifest
+def the_manifest
   the_manifest = {"corset" => 5, "vase" => 2 "painting" => 3}
   
   
