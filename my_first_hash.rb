@@ -7,9 +7,9 @@ def my_hash
 end
 
 
-def shipping_manifest
+def shipping_manifest(hash)
   the_manifest = {"whale bone corsets" => 5, "oil psintings" => 2, "porcelain vases" => 3}
-  shipping_manifest.keys
+  shipping_manifest(the_manifest)
 
   # set a variable called `the_manifest`, equal to a hash
   # fill that hash with key/value pairs that describe the following information: 
