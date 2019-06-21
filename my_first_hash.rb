@@ -7,8 +7,8 @@ def my_hash
 end
 
 
-def the_manifest
-  the_manifest = {"corset" => 5, "vase" => 2 "painting" => 3}
+def shipping_manifest
+  shipping_manifest = {"corset" => 5, "vase" => 2 "painting" => 3}
   
   
   # set a variable called `the_manifest`, equal to a hash
